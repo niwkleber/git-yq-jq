@@ -1,1 +1,1 @@
-# git-yq-jq
+Docker image with git, yq and jq
